@@ -1,1 +1,1 @@
-getting all users fron JSON
+getting all users from JSON
